@@ -1,3 +1,4 @@
 # st
-Dependency
+Suckless Terminal !
+Dependency : 
 JetBrains Mono Fonts
