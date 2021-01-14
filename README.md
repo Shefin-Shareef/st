@@ -1,0 +1,2 @@
+# st
+Suckless Terminal
